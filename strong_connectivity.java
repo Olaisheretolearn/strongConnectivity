@@ -1,3 +1,7 @@
+/*
+Author : Olaoluwa Oke 
+*/
+
 import java.util.*;
 
 public class strong_connectivity {
